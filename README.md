@@ -26,16 +26,11 @@ TIP: Change user role from "user" to "admin" in `users table`, after registering
 
 TIP: You can change monetary variables on base controller `app/Http/Controllers/Controller.php` :metal:
 
-If you need further help DM [ndiecodes](https://twitter.com/ndiecodes) on twitter.
+If you need further help send me a mail: salamisamuel88@yahoo.com.
 
-
-## How do I thank you?
-[
-<img src="https://res.cloudinary.com/iamndie/image/upload/v1578986171/patreon-button_srjo0f.jpg" height="50" width="250">
-](https://www.patreon.com/ndiecodes)
 
 ## Licensing
 
-* Copyright © 2019  [ndiecodes](https://twitter.com/ndiecodes)
+* Copyright © 2019  
 * Licensed under MIT
 
